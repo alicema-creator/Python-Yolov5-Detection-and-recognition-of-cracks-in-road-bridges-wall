@@ -7,17 +7,17 @@ Python+Yolov5路面桥梁裂缝检测识别Detection and recognition of cracks i
 
 ## 运行效果
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/7447103c5ddba5c28c27c54034d78a9c.jpg" width="500"></a>
-&nbsp
+
 
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/%60%7BDQFMT94%5D%5DXCR%5DWBSVEL%600.png" width="500"></a>
-&nbsp
+
 
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/88ad582cecea7feb551923691f37d90b.jpeg" width="500"></a>
-&nbsp
+
 
 <a href="https://blog.csdn.net/alicema1111/article/details/130466046" target="_blank">
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/fab9a850de9db9359205772de5258276.jpeg" width="500"></a>
-&nbsp
+
 
 
 ## 在线协助
@@ -28,7 +28,7 @@ Python+Yolov5路面桥梁裂缝检测识别Detection and recognition of cracks i
 4）软件制作
 
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/YY_KL%40_G44O6OA512_P%7D0NR.png" width="200"></a>
-&nbsp
+
 
 
 
