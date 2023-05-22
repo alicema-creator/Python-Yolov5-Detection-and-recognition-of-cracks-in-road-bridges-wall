@@ -23,11 +23,11 @@ Python+Yolov5路面桥梁裂缝检测识别
 
 
 ## 在线协助
->如需安装运行环境或远程调试，可扫码加Q，由专业技术人员远程协助！  
->1）远程安装运行环境，代码调试  
-2）Qt, C++, Python入门指导  
-3）界面美化  
-4）软件制作  
+#### 如需安装运行环境或远程调试，可扫码加Q，由专业技术人员远程协助！  
+#### 1）远程安装运行环境，代码调试  
+#### 2）Qt, C++, Python入门指导  
+#### 3）界面美化  
+#### 4）软件制作  
 
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/YY_KL%40_G44O6OA512_P%7D0NR.png" width="200"></a>
 
