@@ -3,7 +3,7 @@ Python+Yolov5路面桥梁裂缝检测识别Detection and recognition of cracks i
 
 程序示例精选  
 Python+Yolov5路面桥梁裂缝检测识别  
-如需安装运行环境或远程调试，见文章底部名片，由专业技术人员远程协助！
+如需安装运行环境或远程调试，见文章底部名片(QQ:2945218359)，由专业技术人员远程协助！
 
 ## 前言
 这篇博客针对<<Python+Yolov5墙体桥梁路面裂缝识别>>编写代码，代码整洁，规则，易读。 学习与应用推荐首选。
@@ -29,7 +29,7 @@ Python+Yolov5路面桥梁裂缝检测识别
 3）界面美化  
 4）软件制作  
 
-扫码或<a href="https://img-blog.csdnimg.cn/132d32981a6d4d48bdf578f9810bd341.png" target="_blank">点这里</a>  
+扫码或<a href="https://img-blog.csdnimg.cn/132d32981a6d4d48bdf578f9810bd341.png" target="_blank">点这里</a>(QQ:2945218359)  
 <a href="https://img-blog.csdnimg.cn/132d32981a6d4d48bdf578f9810bd341.png" target="_blank">
   <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/YY_KL%40_G44O6OA512_P%7D0NR.png" width="200">
 </a>
