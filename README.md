@@ -19,7 +19,7 @@ Python+Yolov5路面桥梁裂缝检测识别
 
 
 <img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/fab9a850de9db9359205772de5258276.jpeg" width="500"></a>
-
+<img src="https://github.com/alicema-creator/Python-Yolov5-Detection-and-recognition-of-cracks-in-road-bridges/blob/main/screenshot/5.png" width="500"></a>
 
 
 ## 在线协助
